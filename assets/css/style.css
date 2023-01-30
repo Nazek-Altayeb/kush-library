@@ -50,6 +50,36 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+
+/* library image*/
+#library-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#library-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/library.webp") no-repeat center center;
+
+    /* animate zoom efect on loading page*/
+    animation-name: library-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* create zoom for library image*/
+@keyframes library-zoom {
+    from {
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
