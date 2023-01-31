@@ -127,7 +127,8 @@ h1, h2 {
 .center-about-heading {
     line-height: 20px;
     width: 60%;
-    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 0 120px;
 }
 
 .center-about-heading h2 {
