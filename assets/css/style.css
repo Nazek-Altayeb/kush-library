@@ -103,6 +103,7 @@ h1, h2 {
 }
 
 #center-about {
+    padding-top: 30px;
     width: 33%;
     margin: 0 auto;
 }
@@ -123,6 +124,20 @@ h1, h2 {
     margin-bottom: 50px;
 }
 
+.center-about-heading {
+    line-height: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.center-about-heading h2 {
+    text-align: center;
+}
+
+.center-about-heading p {
+    text-align: center;
+}
+
 .right-about-heading h2 {
     text-align: right;
 }
@@ -135,4 +150,10 @@ hr {
     border: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px 0;
+ }
+
+ #welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
  }
