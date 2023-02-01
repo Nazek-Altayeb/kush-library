@@ -190,9 +190,6 @@ hr {
     color: #3a3a3a;
  }
 
- footer {
-    height: 150px;
- }
  @keyframes footer-zoom {
     0% {
         transform: scale(1);
@@ -303,5 +300,11 @@ hr {
     .right-about-heading p,  .left-about-heading p {
         padding: 0 20px;
         text-align: center;
+    }
+    .card-text{
+        font-size: 30%;
+    }
+    .card-title {
+        font-size: 50%;
     }
  }
