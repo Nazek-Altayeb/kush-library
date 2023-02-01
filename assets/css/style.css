@@ -286,4 +286,22 @@ hr {
         margin-bottom: 20px;
         line-height: 25px;
     } 
+
+    #about{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .right-about-heading,  .left-about-heading  {
+        width: inherit;
+    }
+    .right-about-heading h2,  .left-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+    .right-about-heading p,  .left-about-heading p {
+        padding: 0 20px;
+        text-align: center;
+    }
  }
