@@ -193,6 +193,26 @@ hr {
  footer {
     height: 150px;
  }
+ @keyframes footer-zoom {
+    0% {
+        transform: scale(1);
+    }
+    25%{
+        transform: scale(1.5);
+    }
+    60%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+ .footer-icon:hover  {
+    animation-name: footer-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+ }
 
  /* Gallery  page*/
 
