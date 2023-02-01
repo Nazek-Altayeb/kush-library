@@ -158,3 +158,18 @@ hr {
     margin: 20px 0;
     font-size: 280%;
  }
+
+ /* video section */
+
+ video{
+    width: 100%;
+    
+ }
+ .about-container {
+   margin: 2.5%;
+   padding: 2.5%;
+ }
+
+ .about-container h2 {
+    text-align: center;
+ }
