@@ -201,7 +201,9 @@ hr {
  }
 
  /* media queries */
-
+ footer ul {
+    padding-left: 0;
+ }
 
  @media screen and (max-width: 1200px)
  {
@@ -231,6 +233,28 @@ hr {
     } 
 
     #about{
+        height: 50em; 
+        margin: 0 auto;
+    }
+
+    .card-text{
+        font-size: 30%;
+    }
+    .card-title {
+        font-size: 50%;
+    }
+ }
+ @media screen and (max-width: 915px)
+ {
+    #menu{
+        clear : left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    } 
+
+    #about{
         height: 45em; 
         margin: 0 auto;
     }
@@ -240,5 +264,29 @@ hr {
     }
     .card-title {
         font-size: 50%;
+    }
+ }
+
+ @media screen and (max-width: 653px)
+ {
+    #menu{
+        clear : left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        line-height: 15px;
+    } 
+
+    .card-text{
+        font-size: 30%;
+    }
+
+    .card-title {
+        font-size: 50%;
+    }
+
+    #about{
+        height: 65em; 
+        margin: 0 auto;
     }
  }
