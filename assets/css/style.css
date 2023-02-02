@@ -68,9 +68,9 @@ h1, h2 {
 }
 
 #library-image {
-    height: 600px;
+    height: 160em;
     width: 100%;
-    background: url("../images/library.webp") no-repeat center center;
+    background: url("../images/pexels-ricardo-esquivel-1907785.jpg") no-repeat center center;
 
     /* animate zoom efect on loading page*/
     animation-name: library-zoom;
