@@ -2,7 +2,9 @@
 
 html {
     scroll-behavior: smooth;
+    background-color: #EBD092;
   }
+
 *{
     margin: 0;
     padding: 0;
