@@ -22,7 +22,6 @@ body{
 h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
-    /* letter-spacing: 4px; */
     color: #525252;
 }
 
@@ -34,7 +33,6 @@ h1, h2 {
 
 #menu {
     font-size: 110%;
-    /* letter-spacing: 4px; */
 }
 
 #menu li{
@@ -180,14 +178,6 @@ hr {
     top: 100px;
  }
 
-  /* .container{
-    width: 80%;
- } */
-
- /* .row {
-    margin-bottom: 20px;
- } */
-
  @keyframes card-zoom {
     0% {
         transform: scale(1);
@@ -216,7 +206,6 @@ hr {
  @media screen and (max-width: 1200px)
  {
     #about{
-        /* width: 65%;*/
         height: 45em; 
         margin: 0 auto;
     }
@@ -242,7 +231,6 @@ hr {
     } 
 
     #about{
-        /* width: 90%;*/
         height: 45em; 
         margin: 0 auto;
     }
