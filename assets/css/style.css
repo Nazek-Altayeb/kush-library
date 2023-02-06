@@ -130,6 +130,10 @@ hr {
     /* height: 100%; */
     
  }
+ video{
+    width: 100%;
+    
+ }
  .about-container {
    margin: 2.5%;
    padding: 2.5%;
@@ -187,11 +191,6 @@ hr {
  }
 
  /* Gallery  page*/
-
- /* #gallery{
-    position:relative;
-    top: 100px;
- } */
 
  @keyframes card-zoom {
     0% {
