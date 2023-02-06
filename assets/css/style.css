@@ -234,6 +234,13 @@ hr {
     hr{
         display: none;
     }
+    #about h2 {
+        text-align: center;
+    }
+
+    #about p{
+        text-align: center;
+    }
  }
 
  @media screen and (max-width: 950px)
@@ -249,6 +256,14 @@ hr {
     #about{
         height: 50em; 
         margin: 0 auto;
+    }
+
+    #about h2 {
+        text-align: center;
+    }
+
+    #about p{
+        text-align: center;
     }
 
     .card-text{
@@ -271,6 +286,14 @@ hr {
     #about{
         height: 45em; 
         margin: 0 auto;
+    }
+
+    #about h2 {
+        text-align: center;
+    }
+
+    #about p{
+        text-align: center;
     }
 
     .card-text{
@@ -302,5 +325,13 @@ hr {
     #about{
         height: 65em; 
         margin: 0 auto;
+    }
+
+    #about h2 {
+        text-align: center;
+    }
+
+    #about p{
+        text-align: center;
     }
  }
