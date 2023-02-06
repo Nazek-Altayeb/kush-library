@@ -25,6 +25,12 @@ h1, h2 {
     color: #525252;
 }
 
+p{
+    font-family: Oswald, sans-serif;
+    color: #525252;
+    font-size:medium;
+}
+
 #logo{
     float: left;
     font-size: 280%;
@@ -111,6 +117,12 @@ hr {
     font-size: 280%;
  }
 
+ #about-section h2{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+ }
+
  /* video section */
 
  video{
@@ -122,9 +134,11 @@ hr {
    padding: 2.5%;
  }
 
- .about-container h2 {
+ /* .about-container h2 {
     text-align: center;
- }
+    margin: 20px 0;
+    font-size: 280%;
+ } */
 
  /* footer */
  .social-networks{
@@ -173,10 +187,10 @@ hr {
 
  /* Gallery  page*/
 
- #gallery{
+ /* #gallery{
     position:relative;
     top: 100px;
- }
+ } */
 
  @keyframes card-zoom {
     0% {
@@ -238,7 +252,7 @@ hr {
     }
 
     .card-text{
-        font-size: 30%;
+        font-size: 50%;
     }
     .card-title {
         font-size: 50%;
@@ -249,7 +263,7 @@ hr {
     #menu{
         clear : left;
         float: left;
-        margin-left: 30px;
+        margin-left: 50px;
         margin-bottom: 20px;
         line-height: 25px;
     } 
@@ -278,7 +292,7 @@ hr {
     } 
 
     .card-text{
-        font-size: 30%;
+        font-size: 50%;
     }
 
     .card-title {
