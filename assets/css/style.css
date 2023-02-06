@@ -123,6 +123,12 @@ hr {
     font-size: 280%;
  }
 
+ #map-section h2{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+ }
+
  /* video section */
 
  iframe{
