@@ -309,9 +309,11 @@ hr {
     #menu{
         clear : left;
         float: left;
-        margin-left: 10px;
+        margin-left: 5px;
+        padding-left: 0;
         margin-bottom: 10px;
         line-height: 15px;
+        font-size: 60%;
     } 
 
     .card-text{
