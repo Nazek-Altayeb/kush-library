@@ -34,7 +34,7 @@ the following link helps o learn more about the civilization in El-bijrawia In M
 # Technologies
 * Bootstrap
 * CSS
-* HTML
+* HTML5
 
 # Deployment
 

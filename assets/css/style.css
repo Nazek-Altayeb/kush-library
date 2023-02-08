@@ -229,9 +229,9 @@ hr {
  /* Contact Us Page*/
 
  button{
-    background-color:#EBD092;
-    border: 10px;
-    border-color: #EBD092;   
+    background-color:#EBD092; 
+    border: 3px solid #EBD092; 
+    border-radius: 0.7em;
  }
 
  /* media queries */
