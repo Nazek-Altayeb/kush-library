@@ -224,6 +224,8 @@ hr {
 
  iframe {
     width: 100%;
+    border: 3px solid #EBD092; 
+    border-radius: 0.7em;
  }
 
  /* Contact Us Page*/
