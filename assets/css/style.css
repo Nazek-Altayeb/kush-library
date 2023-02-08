@@ -211,7 +211,7 @@ hr {
 
 .card-img-top {
     /* height: 75%; */
-    height: 30em;
+    height: 45em;
     object-fit: cover;
 }
 
@@ -310,7 +310,7 @@ hr {
     } 
 
     #about{
-        height: 45em; 
+        /* height: 45em;  */
         margin: 0 auto;
     }
 
