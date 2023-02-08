@@ -248,6 +248,7 @@ hr {
 
     #about p{
         text-align: center;
+        
     }
     .card-text{
         font-size: 150%;
@@ -279,6 +280,7 @@ hr {
 
     #about p{
         text-align: center;
+       
     }
 
     .card-text{
@@ -310,6 +312,7 @@ hr {
 
     #about p{
         text-align: center;
+        font-size: 150%;
     }
 
     .card-text{
@@ -354,5 +357,6 @@ hr {
 
     #about p{
         text-align: center;
+        font-size: 100%;
     }
  }
