@@ -18,7 +18,6 @@ body{
 }
 
 /* headings and logo */
-
 h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -60,7 +59,6 @@ p{
     border-bottom: 1px solid #3a3a3a;
 }
 
-
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -76,7 +74,7 @@ p{
 #library-image {
     height: 160em;
     width: 100%;
-    background: url("../images/pexels-ricardo-esquivel-1907785.jpg") no-repeat center center;
+    background: url("../images/library.jpg") no-repeat center center;
 
     /* animate zoom efect on loading page*/
     animation-name: library-zoom;
@@ -95,7 +93,6 @@ p{
 }
 
 /* about section*/
-
 #about {
     height: 600px;
 }
@@ -195,7 +192,6 @@ hr {
  }
 
  /* Gallery  page*/
-
  @keyframes card-zoom {
     0% {
         transform: scale(1);
@@ -224,6 +220,14 @@ hr {
     animation-name: card-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+ }
+
+ /* Contact Page*/
+
+ button{
+    background-color:#EBD092;
+    border: 10px;
+    border-color: #EBD092;   
  }
 
  /* media queries */

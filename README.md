@@ -7,7 +7,7 @@ the following link helps o learn more about the civilization in El-bijrawia In M
 
 # Features
 ### Header
-    Consists of links to the following ( Gallery page, Contact us page, Media links)
+    Consists of links to the following ( Gallery page, Contact us page), besides Media link for jumping to the footer.
 
 ### The landing page image
     it's a image that zoom in once loading the home page, it shows some books on shelves.
@@ -24,10 +24,12 @@ the following link helps o learn more about the civilization in El-bijrawia In M
 ### Contact us
     This feature is basically to let the user leave us a comment or some requests that might be.
 ### Footer
-    It's four media channel links (instagram , facebook, twitter, youtube).
+    It's four media channel links (instagram , facebook, twitter, youtube), besides an arrow for jumping to the header
     
 # Testing
-    HTML files which are (Home, Gallery, Contact Us) have been examined with the use of W3C Validator
+    * Pages which are (Home, Gallery, Contact Us) have been examined with the use of W3C Validator, the test passed with no warning or errors.
+    * The same pages have passed the performance test of lighthouse (dev tools validator)
+
 
 # Technologies
 * Bootstrap
@@ -37,8 +39,14 @@ the following link helps o learn more about the civilization in El-bijrawia In M
 # Deployment
 
 # Credit
-* Content :The content in the Gallery page have been taken from wikipedia nd deifferent websites.
+## Content
+ * The content in the Gallery page have been taken from the following links:
+   https://www.thalia.de/
+   https://www.oberlo.com/blog/must-read-books-of-all-time
+   https://en.wikipedia.org/wiki/Genghis_Khan_and_the_Making_of_the_Modern_World
+   https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country
 
-* Media
- (Images : From different websites) 
- (Videos : from youtube)
+## Media
+ 
+ * Home page image has been taken from :  https://www.pexels.com/
+ * Home page video has been loaded from a youtube channel : PBS Origins
