@@ -10,9 +10,10 @@ El-bijrawia In Meroe city: https://en.wikipedia.org/wiki/Pyramids_of_Mero%C3%AB.
 
 With the use of our website, you be able to:
 * Read a brief summary of each book, and figure what the book cover looks like.
-* Watch a video takes you through the history of library and the most famous one thousands of years ago.
-* Track our location on site, in case you decide to visit us.
-* Send us queries or comments
+* Watch a video which will take you through the history of libraries.
+  and the most famous ones before thousands of years ago.
+* Find our location on site.
+* Send us queries or comments.
 
 # Features
  
@@ -26,18 +27,20 @@ Two Navigation bars, the header and the footer
 ### The landing page image And the About section
 * it's a image that zoom in once loading the home page, it shows some books on shelves.
 * The (About Section) describes the values that our library can adds, also what kind of books do we offer.
-![mainPage](./assets/images/main-page.png)
+![main-page](./assets/images/main-page.png)
 
 ### Importance of the Library Section
     An interesting video that take the user through the history of libraries. 
+<!-- ![Libraries-history](https://www.youtube.com/watch?v=2zfhvDhnA5U) -->
+[![Libraries-history](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
 ### Visit us section
     it provides the user with a location map, where our library exists.
 ### The Gallery
     This page lists our different books, each book comes with an image and a brief desription
 ### Contact us
-    This feature is basically to let the user leave us a comment 
+    This feature is basically to let the user leave us a comment
     or write some queries that could come up in the costomer's mind.
-![contactForm](./assets/images/contact-form.png)
+![contact-form](./assets/images/contact-form.png)
     
 # Testing
 * The Pages (Home, Gallery, Contact Us) have been examined with the use of W3C Validator, 
