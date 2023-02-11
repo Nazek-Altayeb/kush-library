@@ -33,7 +33,7 @@ Two Navigation bars, the header and the footer
 ### Importance of the Library Section
     An interesting video that take the user through the history of libraries. 
 <!-- ![Libraries-history](https://www.youtube.com/watch?v=2zfhvDhnA5U) -->
-[![Libraries-history](./assets/images/library.jpg)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
+[![Libraries-history](./assets/images/Library-snp.png)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
 ### Visit us section
     it provides the user with a location map, where our library exists.
 ### The Gallery
