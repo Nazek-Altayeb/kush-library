@@ -47,7 +47,7 @@ Two Navigation bars, the header and the footer
 * The Pages (Home, Gallery, Contact Us) have been examined with the use of W3C Validator, 
   the test passed with no warning or errors.
 * The same pages have passed the performance test of lighthouse (dev tools validator)
-* Style sheet is validated successfully with the use of Jigsaw.
+* Style sheet is validated with success by using the Jigsaw.
 
 # Deployment
 #### The following is the deployment link of the "Kush Library" website :
