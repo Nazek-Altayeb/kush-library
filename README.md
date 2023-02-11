@@ -49,7 +49,9 @@ Two Navigation bars, the header and the footer
 * The same pages have passed the performance test of lighthouse (dev tools validator)
 * Style sheet is validated successfully with the use of Jigsaw.
 
-
+# Deployment
+### The following is the deployment link of the "Kush Library" website :
+        https://nazek-altayeb.github.io/kush-library/
 # Technologies
 * Bootstrap 5
 * CSS
