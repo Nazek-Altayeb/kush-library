@@ -24,7 +24,7 @@ Two Navigation bars, the header and the footer
 * The footer consists of links to four social media platforms (Facebook, Youtube, Twitter, Instagram).
     
 
-### The "landing page image" and the "About section"
+### The "landing page" image and the "About" section
 * it's a image that zoom in once loading the home page, it shows some books on shelves.
 * The (About Section) describes the values that our library can adds, also what kind of books do we offer.
 
@@ -36,9 +36,9 @@ Two Navigation bars, the header and the footer
 [![Libraries-history](./assets/images/Library-snp.png)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
 ### Visit us section
     it provides the user with a location map, where our library exists.
-### The Gallery
+### The Gallery Page
     This page lists our different books, each book comes with an image and a brief desription
-### Contact us
+### Contact us Form
     This feature is basically to let the user leave us a comment
     or write some queries that could come up in the costomer's mind.
 ![contact-form](./assets/images/contact-form.png)
