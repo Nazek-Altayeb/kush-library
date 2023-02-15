@@ -107,8 +107,8 @@ section #about {
     background-color: #BBB198;
 }
 
-#about-h2 {
-    padding-bottom: 1em;
+#about h2 {
+    padding-top: 0.5em;
 }
 
 .container-fluid.about-section-color {
@@ -116,7 +116,6 @@ section #about {
 }
 
 .container-fluid.video-section-color {
-    /* background-color: #C8B29C; */
     background-color: #ece9e1;
     ;
 }
@@ -142,6 +141,7 @@ hr {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+    padding-bottom: 0.5em;
 }
 
 #map-section h2 {
@@ -149,6 +149,7 @@ hr {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+    padding-bottom: 0.5em;
 }
 
 /* video section */
@@ -215,6 +216,12 @@ footer ul {
     text-decoration: none;
 }
 
+iframe {
+    width: 100%;
+    border: 3px solid  #C8B29C;
+    border-radius: 0.7em;
+}
+
 /* Gallery  page*/
 @keyframes card-zoom {
     0% {
@@ -240,9 +247,16 @@ footer ul {
 }
 
 .card-img-top {
-    /* height: 75%; */
     height: 45em;
     object-fit: cover;
+}
+
+.card-title{
+    font-family: Oswald, sans-serif;
+}
+
+.card-text{
+    font-family: Lato, sans-serif;
 }
 
 .card:hover {
@@ -251,18 +265,11 @@ footer ul {
     animation-fill-mode: forwards;
 }
 
-iframe {
-    width: 100%;
-    border: 3px solid  #C8B29C;
-    border-radius: 0.7em;
-}
-
 .container-fluid.gallary-color {
     background-color: #ece9e1;
 }
 
 /* Contact Us Page*/
-
 button {
     background-color:  #C8B29C;
     border: 3px solid #C8B29C;
@@ -276,7 +283,7 @@ button {
 /* media queries */
 @media screen and (max-width: 1200px) {
     #about {
-        height: 45em;
+        /* height: 45em; */
         margin: 0 auto;
     }
 
@@ -318,7 +325,7 @@ button {
     }
 
     #about {
-        height: 50em;
+        /* height: 50em; */
         margin: 0 auto;
     }
 
@@ -337,6 +344,10 @@ button {
 
     .card-title {
         font-size: 150%;
+    }
+    .card-img-top {
+        height: 20em;
+        object-fit: cover;
     }
 }
 
@@ -397,9 +408,11 @@ button {
     .card-title {
         font-size: 150%;
     }
+    .card-img-top {
+        height: 50em;
+    }
 
     #about {
-        height: 65em;
         margin: 0 auto;
     }
 
