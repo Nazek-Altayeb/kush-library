@@ -53,6 +53,7 @@ Two Navigation bars, the header and the footer
 ### Contact us Form
 - This feature is basically to let the user leave us a comment
 - or write some queries that could come up in the costomer's mind.
+
 ![contact-form](./assets/images/contact-form.png)
     
 # Testing
