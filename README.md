@@ -126,6 +126,10 @@ The project was deployed to GitHub Pages using the following steps...
     - GitHub is used to store the projects code after being pushed from Git.
 
 # Credit
+### Code
+- Landing page style:  [Code institute learning programe](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/) 
+- [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
 ###  Content
   - The content (books images and brief summary) in the Gallery page have been taken from the following links:
     1.   https://www.thalia.de/
@@ -140,3 +144,9 @@ The project was deployed to GitHub Pages using the following steps...
  
  - Home page image has been taken from :  https://www.pexels.com/
  - Home page video has been loaded from a youtube channel : PBS Origins
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
