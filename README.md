@@ -49,7 +49,7 @@ Two Navigation bars, the header and the footer
 ### Visit us section
 - it provides the user with a location map, where our library exists.
 ### The Gallery Page
-- This page lists our different books, each book comes with an image and a brief desription
+- This page lists our different books, each book comes with it's cover image and a brief desription
 ### Contact us Form
 - This feature is basically to let the user leave us a comment
 - or write some queries that could come up in the costomer's mind.
