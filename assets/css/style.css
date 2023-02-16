@@ -280,6 +280,24 @@ button {
     background-color: #ece9e1;
 }
 
+@keyframes send-button-zoom {
+    0% {
+        transform: scale(1);
+    }
+
+    25% {
+        transform: scale(1.1);
+    }
+}
+.send-button:hover {
+    animation-name: send-button-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    background-color:  #B89378;
+    border: 3px solid #B89378;
+    
+}
+
 /* media queries */
 @media screen and (max-width: 1200px) {
     #about {
