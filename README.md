@@ -1,12 +1,16 @@
 
 # Kush Library
 
-A website of books with a wide range topics, 
-like novels, world literatures, history and chilren books. 
-The name of the library (Kush) is the name of a civilization that 
+[Click this link to view the Website.](https://nazek-altayeb.github.io/kush-library/)
+
+Our Website is for people who love reading, it gives the ability to read a brief summary of each book,
+Kush Library contains novels, world literatures, history and children books. 
+The name of the library (Kush) is taken from a civilization that 
 exists thousands of years ago in El-bijrawia area in Sudan Republic, 
 the following link helps o learn more about the civilization in 
 El-bijrawia In Meroe city: https://en.wikipedia.org/wiki/Pyramids_of_Mero%C3%AB.
+
+![main-page](./assets/images/kush-library.png)
 
 With the use of our website, you be able to:
 * Read a brief summary of each book, and figure what the book cover looks like.
@@ -15,7 +19,12 @@ With the use of our website, you be able to:
 * Find our location on site.
 * Send us queries or comments.
 
-# Design
+# User Experience (UX)
+ ## Design
+- ### Colour Scheme
+   The two basic colors are 'Medium light shade of orange' and 'Light grayish orange'.
+- ### Typography
+   The main font is Oswald and the sans-serif font is used as fallback incase Oswald is not supported by browser.
 
 
 # Features
@@ -35,7 +44,7 @@ Two Navigation bars, the header and the footer
 
 ### Importance of the Library Section
     An interesting video that take the user through the history of libraries. 
-<!-- ![Libraries-history](https://www.youtube.com/watch?v=2zfhvDhnA5U) -->
+
 [![Libraries-history](./assets/images/Library-snp.png)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
 ### Visit us section
     it provides the user with a location map, where our library exists.
@@ -47,29 +56,86 @@ Two Navigation bars, the header and the footer
 ![contact-form](./assets/images/contact-form.png)
     
 # Testing
-* The Pages (Home, Gallery, Contact Us) have been examined with the use of W3C Validator, 
-  the test passed with no warning or errors.
-* The same pages have passed the performance test of lighthouse (dev tools validator)
-* Style sheet is validated with success by using the Jigsaw.
+* The Pages (Home, Gallery, Contact Us) have been examined with the use of W3C Validator to make sure no syntax error is there.
+* The performance of same pages have been validated by lighthouse (dev tools validator)
+* Style sheet is validated by using the Jigsaw.
+
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+### Testing User Stories from User Experience (UX)
+
+    1. User wants to easily figure out what is the main purpose of the site .
+
+        1. When launching the main page, zoom in image of shelves full of books lands in, besides a navigation bar in the top of the page indicates what else is in the website.
+        2. The user has the ability to watch video expressing the history of libraries, also the location map below helps the use to locate us on site. 
+
+    2. User wants to be able to easily be able to navigate throughout the site to find content.
+
+        1. The site provides two navigation bars, clearly declare where each link ends, the Header and the Footer for the three pages is the same.
+        2. The Header navbar navigates between the Gallery and Contact us Pages besides the Home Page, the footer is designed to navigate between four social media portals.
+        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+
+### Further Testing
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX ...etc.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Colleagues  were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### Fixed Bugs
+- Space between sections in the Home page breaks in small devices, probelm was fixed after adding css class 'container-fluid' in each section.
+- Cards in the Gallery page were not looking the same, this is fixed later by the use of twelve column system and some css custom classes. 
 
 # Deployment
-#### The following is the deployment link of the "Kush Library" website :
-        https://nazek-altayeb.github.io/kush-library/
+
+## GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Main Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+## Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Nazek-Altayeb/kush-library)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
 # Technologies
-* Bootstrap 5
-* CSS
-* HTML5
+## Languages
+1.   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+2.   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+## Frameworks, Libraries and tools
+
+1. [Bootstrap 5:](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+    - It was also used on the send button in the Contact form inorder to add motion when mouse comes over the send button.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
 
 # Credit
-## Content
-#### The content (books images and brief summary) in the Gallery page have been taken from the following links:
-######  https://www.thalia.de/
-######   https://www.oberlo.com/blog/must-read-books-of-all-time
-######   https://en.wikipedia.org/wiki/Genghis_Khan_and_the_Making_of_the_Modern_World
-######   https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country
-#### The landing Page image style (Zoom in feature) has been taken for the "Love Running Project" that is availabe in Code Institute Programme
+###  Content
+  - The content (books images and brief summary) in the Gallery page have been taken from the following links:
+    1.   https://www.thalia.de/
+    1.   https://www.oberlo.com/blog/must-read-books-of-all-time
+    1.   https://en.wikipedia.org/wiki/Genghis_Khan_and_the_Making_of_the_Modern_World
+    1.   https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country
 
-## Media
+  -  The landing Page image style (Zoom in feature) has been taken for the "Love Running Project" that is availabe in Code Institute Programme
+
+###  Media
  
- * Home page image has been taken from :  https://www.pexels.com/
- * Home page video has been loaded from a youtube channel : PBS Origins
+ - Home page image has been taken from :  https://www.pexels.com/
+ - Home page video has been loaded from a youtube channel : PBS Origins
