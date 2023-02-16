@@ -57,9 +57,9 @@ Two Navigation bars, the header and the footer
 ![contact-form](./assets/images/contact-form.png)
     
 # Testing
-* [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input): The Pages (Home, Gallery, Contact Us) have been examined with the use of W3C Validator to make sure no syntax error is there.
-* The performance of same pages have been validated by lighthouse (dev tools validator)
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input): Style sheet is validated by using the Jigsaw.  
+* The Pages (Home, Gallery, Contact Us) have been examined with the use of [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to make sure no syntax error is there.
+* The performance of same pages have been validated by lighthouse (dev tools validator).
+* Style sheet is validated by using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input).  
 
 ### Testing User Stories from User Experience (UX)
 
