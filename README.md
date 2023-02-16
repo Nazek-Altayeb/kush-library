@@ -82,7 +82,7 @@ Two Navigation bars, the header and the footer
 -   Colleagues  were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Fixed Bugs
-- Space between sections in the Home page breaks in small devices, probelm was fixed after adding css class 'container-fluid' in each section.
+- Space between sections in the Home page breaks in small devices, problem was fixed after adding bootstrap class 'container-fluid' in each section.
 - Cards in the Gallery page were not looking the same, this is fixed later by the use of twelve column system and some css custom classes. 
 
 # Deployment
@@ -133,7 +133,8 @@ The project was deployed to GitHub Pages using the following steps...
     1.   https://en.wikipedia.org/wiki/Genghis_Khan_and_the_Making_of_the_Modern_World
     1.   https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country
 
-  -  The landing Page image style (Zoom in feature) has been taken for the "Love Running Project" that is availabe in Code Institute Programme
+  -  The landing Page image style (Zoom in feature) has been taken for the "Love Running Project" that is availabe in Code Institute Programme.
+  -  Ideas realates to (Organizing and expressing) this Readme file has been taken from  Code Institute readme 
 
 ###  Media
  
