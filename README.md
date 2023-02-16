@@ -61,21 +61,21 @@ Two Navigation bars, the header and the footer
 * The performance of same pages have been validated by lighthouse (dev tools validator)
 * Style sheet is validated by using the Jigsaw.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 
 ### Testing User Stories from User Experience (UX)
 
-    1. User wants to easily figure out what is the main purpose of the site .
+-  User wants to easily figure out what is the main purpose of the site .
 
-        1. When launching the main page, zoom in image of shelves full of books lands in, besides a navigation bar in the top of the page indicates what else is in the website.
-        2. The user has the ability to watch video expressing the history of libraries, also the location map below helps the use to locate us on site. 
+    * When launching the main page, zoom in image of shelves full of books lands in, besides a navigation bar in the top of the page indicates what else is in the website.
+    * The user has the ability to watch video expressing the history of libraries, also the location map below helps the use to locate us on site. 
 
-    2. User wants to be able to easily be able to navigate throughout the site to find content.
+-  User wants to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site provides two navigation bars, clearly declare where each link ends, the Header and the Footer for the three pages is the same.
-        2. The Header navbar navigates between the Gallery and Contact us Pages besides the Home Page, the footer is designed to navigate between four social media portals.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+    * The site provides two navigation bars, clearly declare where each link ends, the Header and the Footer for the three pages is the same.
+    * The Header navbar navigates between the Gallery and Contact us Pages besides the Home Page, the footer is designed to navigate between four social media portals.
+    * On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
 ### Further Testing
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX ...etc.
@@ -128,7 +128,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 # Credit
 ### Code
-- Landing page style:  [Code institute learning programe](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/) 
+- Landing page image style:  [Code institute learning programe](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/6fd29d155c3b42248ff57bae32978a4b/) 
 - [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 ###  Content
