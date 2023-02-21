@@ -72,7 +72,7 @@ Two Navigation bars, the header and the footer
 
 ## Features Left to Implement
 ### Sign up 
-- with the use of this feature the User can create his/her Own account, so any comment or inquery that could be sent by the user, our support team could reply back using the user's contact details (the email address in our case).
+- With the use of this feature the user can create his/her own account, so any comment or inquery that could be sent by the user, our **Kush Library** team could reply back using the user's contact details (the email address in our case).
 ### Favourite books
 - With the use of this feature, every logged in user could craete a list of favourite books.
     
