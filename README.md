@@ -42,7 +42,7 @@ With the use of our website, you be able to:
     * On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
 # Features
- 
+## Existing Features
 ### Bars
 Two Navigation bars, the header and the footer
 * The header consists of links to the following ( Home Page, Gallery page, Contact us page),
@@ -69,6 +69,12 @@ Two Navigation bars, the header and the footer
 - Or write some queries that could come up in the user's mind.
 
 ![contact-form](./assets/images/contact-form.png)
+
+## Features Left to Implement
+### Sign up 
+- with the use of this feature the User can create his/her Own account, so any comment or inquery that could be sent by the user, our support team could reply back using the user's contact details (the email address in our case).
+### Favourite books
+- With the use of this feature, every logged in user could craete a list of favourite books.
     
 # Testing
 * The Pages (Home, Gallery, Contact Us) have been examined with the use of [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to make sure no syntax errors are there.
