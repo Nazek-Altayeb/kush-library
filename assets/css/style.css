@@ -152,7 +152,7 @@ hr {
     padding-bottom: 0.5em;
 }
 
-/* video section */
+/* video and map sections */
 
 .video-container {
     margin: 2.5%;
@@ -162,6 +162,12 @@ hr {
 .map-container {
     margin: 2.5%;
     padding: 2.5%;
+}
+
+iframe {
+    width: 100%;
+    border: 3px solid #C8B29C;
+    border-radius: 0.7em;
 }
 
 /* footer */
@@ -216,12 +222,6 @@ footer ul {
     text-decoration: none;
 }
 
-iframe {
-    width: 100%;
-    border: 3px solid  #C8B29C;
-    border-radius: 0.7em;
-}
-
 /* Gallery  page*/
 @keyframes card-zoom {
     0% {
@@ -251,11 +251,11 @@ iframe {
     object-fit: cover;
 }
 
-.card-title{
+.card-title {
     font-family: Oswald, sans-serif;
 }
 
-.card-text{
+.card-text {
     font-family: Lato, sans-serif;
 }
 
@@ -271,7 +271,7 @@ iframe {
 
 /* Contact Us Page*/
 button {
-    background-color:  #C8B29C;
+    background-color: #C8B29C;
     border: 3px solid #C8B29C;
     border-radius: 0.7em;
 }
@@ -289,19 +289,19 @@ button {
         transform: scale(1.1);
     }
 }
+
 .send-button:hover {
     animation-name: send-button-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-    background-color:  #B89378;
+    background-color: #B89378;
     border: 3px solid #B89378;
-    
+
 }
 
 /* media queries */
 @media screen and (max-width: 1200px) {
     #about {
-        /* height: 45em; */
         margin: 0 auto;
     }
 
@@ -343,7 +343,6 @@ button {
     }
 
     #about {
-        /* height: 50em; */
         margin: 0 auto;
     }
 
@@ -363,6 +362,7 @@ button {
     .card-title {
         font-size: 150%;
     }
+
     .card-img-top {
         height: 20em;
         object-fit: cover;
@@ -381,7 +381,6 @@ button {
     }
 
     #about {
-        /* height: 45em;  */
         margin: 0 auto;
     }
 
@@ -426,6 +425,7 @@ button {
     .card-title {
         font-size: 150%;
     }
+
     .card-img-top {
         height: 50em;
     }
