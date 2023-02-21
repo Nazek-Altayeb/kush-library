@@ -7,7 +7,7 @@ Our Website is for people who love reading, it gives the ability to read a brief
 Kush Library contains novels, world literatures, history and children books. 
 The name of the library (Kush) is taken from a civilization that 
 exists thousands of years ago in El-bijrawia area in Sudan Republic, 
-the following link helps o learn more about the civilization in 
+the following link helps to learn more about the civilization in 
 El-bijrawia In Meroe city: https://en.wikipedia.org/wiki/Pyramids_of_Mero%C3%AB.
 
 ![main-page](./assets/images/kush-library.png)
@@ -33,7 +33,7 @@ With the use of our website, you be able to:
 -  User wants to easily figure out what is the main purpose of the site.
 
     * When entering the main page, zoom in image of shelves full of books lands in, besides a navigation bar in the top of the page indicates what else is in the website.
-    * Below the main image, the user would see four paragraphs telling him/her what the website presents, besides a video expressing the history of libraries, also the location map below helps the use to locate us on site. 
+    * Below the main image, the user would see four paragraphs telling him/her what the website presents, besides a video expressing the history of libraries, also the location map below helps the user to locate us on site. 
 
 -  User wants to be able to easily navigate throughout the site in order to find content.
 
@@ -51,38 +51,38 @@ Two Navigation bars, the header and the footer
     
 
 ### The "landing page" image and the "About" section
-* it's a image that zoom in once loading the home page, it shows some books on shelves.
+* The landing page image zooms in once loading the home page, it shows some books on shelves.
 * The (About Section) describes the values that our library can adds, also what kind of books do we offer.
 
 ![main-page](./assets/images/main-page.png)
 
 ### Importance of the Library Section
-- An interesting video that take the user through the history of libraries. 
+- An interesting video that takes the user through the history of libraries. 
 
 [![Libraries-history](./assets/images/library-snp.png)](https://www.youtube.com/watch?v=2zfhvDhnA5U)
 ### Visit us section
-- it provides the user with a location map, where our library exists.
+- it provides the user with a location map, where our library exists on site.
 ### The Gallery Page
-- This page lists our different books, each book comes with it's cover image and a brief desription
+- This page lists our different books, each book comes with it's cover image and a brief description
 ### Contact us Form
 - This feature is basically to let the user leave us a comment
-- or write some queries that could come up in the costomer's mind.
+- Or write some queries that could come up in the user's mind.
 
 ![contact-form](./assets/images/contact-form.png)
     
 # Testing
-* The Pages (Home, Gallery, Contact Us) have been examined with the use of [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to make sure no syntax error is there.
+* The Pages (Home, Gallery, Contact Us) have been examined with the use of [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to make sure no syntax errors are there.
 * The performance of same pages have been validated by lighthouse (dev tools validator).
 * Style sheet is validated by using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 
 ### Further Testing
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX ...etc.
+-   In order to make sure that the website is responsive, it  was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX ...etc.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Colleagues  were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Fixed Bugs
-- Space between sections in the Home page breaks in small devices, problem was fixed after using bootstrap library.
-- Cards spaces in the Gallery page were not looking the same, this is fixed later by the use of Grid system and some css custom classes. 
+- Space between sections in the Home page breaks in small devices, this problem was fixed after using bootstrap library.
+- in the Gallery page the cards dimensions  were not looking the same, this is fixed later by the use of Grid system and some css custom classes. 
 
 # Deployment
 
@@ -118,7 +118,7 @@ The project was deployed to GitHub Pages using the following steps...
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-    - It was also used on the send button in the Contact form inorder to add motion when mouse comes over the send button.
+    - It was also used on the send button in the Contact form inorder to add motion when mouse hover over the send button.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [GitHub:](https://github.com/)
@@ -136,7 +136,6 @@ The project was deployed to GitHub Pages using the following steps...
     1.   https://en.wikipedia.org/wiki/Genghis_Khan_and_the_Making_of_the_Modern_World
     1.   https://en.wikipedia.org/wiki/Cry,_the_Beloved_Country
 
-  -  The landing Page image style (Zoom in feature) has been taken for the "Love Running Project" that is availabe in Code Institute Programme.
   -  Ideas realates to (Organizing and expressing) this Readme file has been taken from  Code Institute readme 
 
 ###  Media
