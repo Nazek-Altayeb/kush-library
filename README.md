@@ -71,10 +71,10 @@ Two Navigation bars, the header and the footer
 ![contact-form](./assets/images/contact-form.png)
 
 ## Features Left to Implement
-### Sign up 
+### Sign up form
 - With the use of this feature the user can create his/her own account, so any comment or inquery that could be sent by the user, our **Kush Library** team could reply back using the user's contact details (the email address in our case).
-### Favourite books
-- With the use of this feature, every logged in user could craete a list of favourite books.
+### Favourite icon
+- With the use of this feature, every logged in user could create a list of favourite books.
     
 # Testing
 * The Pages (Home, Gallery, Contact Us) have been examined with the use of [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to make sure no syntax errors are there.
