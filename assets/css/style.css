@@ -400,6 +400,10 @@ button {
     .card-title {
         font-size: 150%;
     }
+    .card-img-top {
+        height: 20em;
+        object-fit: cover;
+    }
 }
 
 @media screen and (max-width: 653px) {
@@ -425,9 +429,9 @@ button {
     .card-title {
         font-size: 150%;
     }
-
-    .card-img-top {
-        height: 50em;
+     .card-img-top {
+        height: 40em;
+        object-fit: cover;
     }
 
     #about {
